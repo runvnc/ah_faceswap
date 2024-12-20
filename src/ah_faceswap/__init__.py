@@ -1,3 +1,3 @@
 # FaceSwap plugin for Agent Framework
 # Provides face swapping functionality using facefusionlib
-from .mod imoprt *
+from .mod import *
