@@ -1,0 +1,7 @@
+{
+  "name": "FaceSwap",
+  "version": "1.0.0",
+  "description": "Face swapping functionality using facefusionlib",
+  "services": ["swap_face"],
+  "commands": []
+}
